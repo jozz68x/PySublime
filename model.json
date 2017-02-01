@@ -14,7 +14,29 @@
       "author_url_website": "",
       "author_url_avatar": "http://k34.kn3.net/7/D/B/8/9/9/4EB.jpg",
       "upload_date": "30 jan. 2017",
-      "wallpaper_payment_type": "free"
+      "wallpaper_payment_type": "free",
+      "wallpaper_tags": [
+        {
+          "colors": [
+            {
+              "color": "black"
+            }
+          ]
+        },
+        {
+          "texts": [
+            {
+              "tag": "amoled"
+            },
+            {
+              "tag": "dark"
+            },
+            {
+              "tag": "abstract"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
