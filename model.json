@@ -57,8 +57,8 @@
       "upload_date": "22 jan. 2017"
     },
     {
-      "wallpaper_id": "MAIN_000001",
-      "wallpaper_name": "Wall 481",
+      "id": "MAIN_000001",
+      "name": "Wall 481",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20481.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20481%20Preview.jpg",
       "wallpaper_category": "People",
