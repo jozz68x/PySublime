@@ -48,7 +48,7 @@
       "wallpaper_size": "609 KB",
       "wallpaper_payment_type": "free",
       "wallpaper_tags": "purple|space|sunset|design",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
       "wallpaper_is_active": "true",
       "author_name": "Unknown",
       "author_url_avatar": "",
@@ -66,12 +66,12 @@
       "wallpaper_size": "140 KB",
       "wallpaper_payment_type": "free",
       "wallpaper_tags": "black|hand|camera|dark",
-      "wallpaper_is_recent": "false",
+      "wallpaper_is_recent": "true",
       "wallpaper_is_active": "true",
-      "author_name": "Cameron Kirby",
-      "author_url_avatar": "",
-      "author_url_website": "",
-      "author_description": "",
+      "author_name": "Jose Diaz",
+      "author_url_avatar": "https://1.bp.blogspot.com/-Y1ITQa37IrI/WB5IYI2iC8I/AAAAAAAAKVI/5vL55v71ec8UPMIauTcyuN1elOx2YQ-5wCLcB/s1600/Jose%2BDiaz.jpg",
+      "author_url_website": "https://github.com/jozz68x",
+      "author_description": "UI/UX Designer and Frontend Developer.",
       "upload_date": "13 jan. 2017"
     }
   ]
