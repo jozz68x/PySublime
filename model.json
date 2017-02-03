@@ -21,8 +21,8 @@
       "upload_date": "1 feb. 2017"
     },
     {
-      "wallpaper_id": "POKEMON_000001",
-      "wallpaper_name": "Meowth",
+      "id": "POKEMON_000001",
+      "name": "Meowth",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Meowth%20v2.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Meowth%20v2%20Preview.jpg",
       "wallpaper_category": "Pokemon",
