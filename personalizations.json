@@ -4,18 +4,18 @@
   "personalizations": [
     {
       "personalization_id": "Identificador único de la personalization",
-      "personalization_name": "Nombre de la personalization",
-      "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png"
+      "personalization_name": "Nombre",
+      "personalization_url_source": "https://pbs.twimg.com/media/Cf8VzmRUIAEB5ch.jpg"
     },
     {
       "personalization_id": "Identificador único de la personalization",
-      "personalization_name": "Nombre de la personalization",
-      "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png"
+      "personalization_name": "Nombre",
+      "personalization_url_source": "http://xiaomitips.com/media/2016/05/Android-N-MIUI-Theme-Homescreen.png"
     },
     {
       "personalization_id": "Identificador único de la personalization",
-      "personalization_name": "Nombre de la personalization",
-      "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png"
+      "personalization_name": "Nombre",
+      "personalization_url_source": "https://3.bp.blogspot.com/-X9N9HyUI0eQ/V1MKzraV02I/AAAAAAAAA4s/Xl62--rKnnEo-sZ4RxxO9PdYgwlbFGq2gCKgB/s1600/Screenshot_2016-06-04-22-06-45.jpg"
     }
   ]
 }
