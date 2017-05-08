@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "wallpapers": [
+    {
+      "personalization_id": "Identificador único de la personalization",
+      "personalization_name": "Nombre de la personalization",
+      "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png"
+    }
+  ]
+}
