@@ -4,7 +4,7 @@
   "personalizations": [
     {
       "personalization_id": "cust-00001",
-      "personalization_name": "Custom xtreme 1",
+      "personalization_name": "Custom 1",
       "personalization_description": "",
       "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png",
       "personalization_url_thumbnail": "",
@@ -28,7 +28,7 @@
     },
     {
       "personalization_id": "cust-00002",
-      "personalization_name": "Custom xtreme 2",
+      "personalization_name": "Custom 2",
       "personalization_description": "",
       "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png",
       "personalization_url_thumbnail": "",
@@ -52,7 +52,7 @@
     },
     {
       "personalization_id": "cust-00003",
-      "personalization_name": "Custom xtreme 3",
+      "personalization_name": "Custom 3",
       "personalization_description": "",
       "personalization_url_source": "https://svenseebeck.files.wordpress.com/2017/01/wp-1484208354855.png",
       "personalization_url_thumbnail": "",
