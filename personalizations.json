@@ -2,10 +2,7 @@
   "version": "1.0",
   "encoding": "UTF-8",
   "personalizations": [
-      
-      
       {
-        
       "author_name": "Edzon DM",
       "personalization_id": "cust-00004",
       "personalization_name": "Captain America",
@@ -26,15 +23,12 @@
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
-      "personalization_others_notes": "",
+      "personalization_additional_notes": "",
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-
     }, 
-      
-     {
-        
+     { 
       "author_name": "Edzon DM",
       "personalization_id": "cust-00003",
       "personalization_name": "Gradient Night",
@@ -55,15 +49,12 @@
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
-      "personalization_others_notes": "Root required",
+      "personalization_additional_notes": "Root required",
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-
-    }, 
-      
+    },
      {
-        
       "author_name": "Edzon DM",
       "personalization_id": "cust-00002",
       "personalization_name": "Strange Plant",
@@ -73,7 +64,7 @@
       "resource_name_wallpaper": "InsWall",
       "resource_name_icons": "Cornie Icons",
       "resource_name_launcher": "Nova Launcher",
-      "resource_name_widget": "Mnml UI",
+      "resource_name_widget": "Widget Whater Samsung",
       "resource_url_wallpaper": "https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper",
       "resource_url_icons": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
@@ -84,14 +75,12 @@
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
-      "personalization_others_notes": "",
+      "personalization_additional_notes": "",
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-
     },     
     {
-        
       "author_name": "Edzon DM",
       "personalization_id": "cust-00001",
       "personalization_name": "Daft Punk",
@@ -101,22 +90,21 @@
       "resource_name_wallpaper": "InsWall",
       "resource_name_icons": "Ango",
       "resource_name_launcher": "Nova Launcher",
-      "resource_name_widget": "Mnml UI",
+      "resource_name_widget": "",
       "resource_url_wallpaper": "https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper",
       "resource_url_icons": "https://play.google.com/store/apps/details?id=com.maxpatchs.ango",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",        
+      "resource_url_widget": "",        
       "personalization_category": "Minimal",
       "upload_date": "9 may 2017",
       "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "false",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
-      "personalization_others_notes": "",
+      "personalization_additional_notes": "",
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-
     }
   ]
 }
