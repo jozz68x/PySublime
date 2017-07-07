@@ -54,8 +54,6 @@ import java.util.Random;
 
 /**
  * @author Jose Diaz (@Diaz18x)
- *         <p>
- *         IMPLEMENTATION FUTURE: https://github.com/glesik/wpgen/blob/master/app/src/main/java/net/glsk/wpgen/ColorsActivity.java
  */
 
 public class TintWallFragment extends BasePageFragment implements View.OnClickListener, View.OnLongClickListener {
